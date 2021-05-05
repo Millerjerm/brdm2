@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\Kali\vehicles\SABOW\BRDM2\BRDM2_Body_C_C"
+	"$bumpmap" "models\Kali\vehicles\SABOW\BRDM2\BRDM2_Body_N"
+	"$halflambert" "1"				
+	"$nocull" 1		
+	"$normalmapalphaenvmapmask" 1				
+	"$envmap" "env_cubemap"					
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"					
+ 	"$envmapFresnel" "0.5"					
+
+	"$phong" "1"						
+	"$phongexponenttexture" "models\Kali\vehicles\SABOW\BRDM2\BRDM2_Body_Exp"
+	"$phongboost" "0.8"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+	"$PhongAlbedoTint" "1"	
+
+}
+
+
+
+
+
